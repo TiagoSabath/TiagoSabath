@@ -12,10 +12,7 @@
           
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
- 
+  <a href="https://www.linkedin.com/in/tiago-sabath-9825b9285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 
-<div> 
-  <a href="https://github.com/TiagoSabath" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/tiago-sabath-9825b9285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
