@@ -3,12 +3,13 @@
 
 
 <div style="display: inline_block">
-  <img align="center" alt="TS-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" > 
-  <img align="center" alt="TS-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
-  <img align="center" alt="TS-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >        
-  <img align="center" alt="TS-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >       
+  <img align="center" alt="TS-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" > 
+  <img align="center" alt="TS-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+  <img align="center" alt="TS-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >             
   <img align="center" alt="TS-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
   <img align="center" alt="TS-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+  <img align="center" alt="TS-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
+  <img align="center" alt="TS-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" >
         
 
    ##        
