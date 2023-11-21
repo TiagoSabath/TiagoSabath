@@ -1,5 +1,5 @@
 # Olá! Eu sou Tiago Sabath 
-## Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas.
+## Estudante de Análise e Desenvolvimento de Sistemas.
 
 
 <div style="display: inline_block">
