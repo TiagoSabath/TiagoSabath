@@ -1,5 +1,5 @@
 # Olá! Eu sou Tiago Sabath 
-## Estudante de Análise e Desenvolvimento de Sistemas.
+## Sou formado em Análise e Desenvolvimento de Sistemas. Durante o meu curso, adquiri uma sólida base em desenvolvimento de software, análise de sistemas e gerenciamento de projetos. 
 
 
 <div style="display: inline_block">
